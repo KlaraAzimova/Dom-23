@@ -22,10 +22,9 @@ public class Main {
                 arrayList2.add(a);
             }
         }
-        System.out.println("Random sandar: " + arrayList);
-        System.out.println("Jup sandar: " + arrayList1);
-        System.out.println("Tak sandar: " + arrayList2);
+        System.out.println("Random sandar: " + arrayList + " \n" + "Jup sandar" + " " + arrayList1 + " \n" + "Tak sandar" + " " + arrayList2);
 
     }
 
 }
+
